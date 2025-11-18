@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/api/latest", "dest": "/api/latest.js" }
+  ]
+}
